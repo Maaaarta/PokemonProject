@@ -7,7 +7,7 @@ la integració amb dades JSON.
 
 INSTAL·LACIÓ
 
-1. Clona aquest repositori (git clone https://github.com/el-teu-usuari/pokemon-team-builder.git)
+1. Clona aquest repositori (git clone https://github.com/Maaaarta/PokemonProject.git)
 2. Obre el projecte amb el teu editor de codi(per exemple VS (VisualStudio COde)).
 3. Obre el fitxer index.html amb el teu navegador.
 
